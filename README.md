@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GijsbertRavensteijn
+- 👋 Hi, I’m @GijsbertR
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning
